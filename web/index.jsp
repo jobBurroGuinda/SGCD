@@ -5,7 +5,7 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+<!DOCTYPE html"
    "http://www.w3.org/TR/html4/loose.dtd">
 
 <html>
@@ -42,37 +42,40 @@
 <body>
 <table width="100%" height="100%" border="0" >
   <tr>
-    <th height="171" colspan="2" scope="col"><img src="imagenes/logo.JPG" width="1000" height="243" /></th>
+    <th height="171" colspan="2" scope="col"><img src="Imagenes/hospital.jpg" width="1000" height="243" /></th>
   </tr>
   <tr>
     <th width="23%" scope="row"><table width="100%" border="0">
       <tr>
-        <th scope="col"><a href="QuienesSomos.jsp"><img src="imagenes/quienes  somos.JPG" width="203" height="54" /></a></th>
+        <th scope="col"><a href="QuienesSomos.jsp">Quienes somos <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="ubicacion.jsp"><img src="imagenes/ubicacion.JPG" width="208" height="53" /></a></th>
+        <th scope="row"><a href="ubicacion.jsp">Ubicación <width="208" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="servicios.jsp"><img src="imagenes/servicios.JPG" width="203" height="54" /></a></th>
+        <th scope="row"><a href="servicios.jsp">Servicios <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="DudasyComentarios.jsp"><img src="imagenes/dudas y comentarios.JPG" width="212" height="50" /></a></th>
+        <th scope="row"><a href="DudasyComentarios.jsp">Dudas y comentarios <width="212" height="50" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="AccesoSistema.jsp><img src="imagenes/acceso  al sistema.JPG" width="215" height="53" /></a></th>
+        <th scope="row"><a href="AccesoSistema.jsp>Acceso  al sistema <width="215" height="53" /></a></th>
+      </tr>
+      <tr>
+        <th scope="row"><a href="InicioSGCD">Accesar al sistema<width="215" height="53" /></a></th>
       </tr>
     </table></th>
     <td width="77%"><p align="center">&nbsp;</p>
       <div id="apDiv2">
         <table width="93%" height="284" border="0">
           <tr>
-            <th height="66" scope="col"><span class="Estilo4">Sistema de Gestión de Consultas Dentales</span></th>
+            <th height="66" scope="col"><span class="Estilo4">Sistema Gestor de Consultas Dentales</span></th>
           </tr>
           <tr>
             <th height="28" scope="row"><span class="Estilo5">&quot;Hospital Dental&quot;</span></th>
           </tr>
           <tr>
-            <th height="102" scope="row"><span class="Estilo5"><img src="imagenes/hospital.JPG" alt="" width="255" height="180" border="0" align="absmiddle" /></span></th>
+            <th height="102" scope="row"><span class="Estilo5"><img src="Imagenes/portada.jpg" alt="" width="255" height="180" border="0" align="absmiddle" /></span></th>
           </tr>
         </table>
       </div>

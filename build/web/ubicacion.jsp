@@ -45,24 +45,24 @@
 <body>
 <table width="100%" height="100%" border="0" >
   <tr>
-    <th height="171" colspan="2" scope="col"><img src="imagenes/logo.JPG" width="1000" height="243" /></th>
+    <th height="171" colspan="2" scope="col"><img src="Imagenes/hospital.jpg" width="1000" height="243" /></th>
   </tr>
   <tr>
     <th width="23%" scope="row"><table width="100%" border="0">
       <tr>
-        <th scope="col"><a href="qs.html"><img src="imagenes/quienes  somos.JPG" width="203" height="54" /></a></th>
+        <th scope="col"><a href="QuienesSomos.jsp">Quienes somos <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="ubicacion.html"><img src="imagenes/ubicacion.JPG" width="208" height="53" /></a></th>
+        <th scope="row"><a href="ubicacion.jsp">Ubicación <width="208" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="servicios.html"><img src="imagenes/servicios.JPG" width="203" height="54" /></a></th>
+        <th scope="row"><a href="servicios.jsp">Servicios <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="dyc.html"><img src="imagenes/dudas y comentarios.JPG" width="212" height="50" /></a></th>
+        <th scope="row"><a href="DudasyComentarios.jsp">Dudas y comentarios <width="212" height="50" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="as.html"><img src="imagenes/acceso  al sistema.JPG" width="215" height="53" /></a></th>
+        <th scope="row"><a href="AccesoSistema.jsp">Acceso al sistema <width="215" height="53" /></a></th>
       </tr>
     </table></th>
     <td width="77%"><p align="center">&nbsp;</p>
@@ -71,8 +71,8 @@
         <p>nos encontramo localizados en Mar mediterraneo #227 colonia popotla cp 11400,Delegacion Miguel Hidalgo, Cd. Mexico D.F.</p>
         <p>Puedes observar el croquis de localizacion para una mejor referencia.</p>
         <p>Croquis de localizacion</p>
-        <p align="center"><img src="imagenes/croquis.JPG" width="482" height="256" border="6" /></p>
-        <p><a href="index.html"><img src="imagenes/inicio.gif" width="126" height="91" /></a></p>
+        <p align="center"><img src="Imagenes/croquis.jpg" width="482" height="256" border="6" /></p>
+        <p><a href="index.jsp">Ir al inicio <width="126" height="91" /></a></p>
       </div>
       <p align="center">&nbsp;</p>
       <p align="center">&nbsp;</p>

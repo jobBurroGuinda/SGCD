@@ -33,24 +33,24 @@
 <body>
 <table width="100%" height="100%" border="0" >
   <tr>
-    <th height="171" colspan="2" scope="col"><img src="imagenes/logo.JPG" width="936" height="243" /></th>
+    <th height="171" colspan="2" scope="col"><img src="Imagenes/hospital.jpg" width="936" height="243" /></th>
   </tr>
   <tr>
     <th width="22%" scope="row"><table width="100%" border="0">
       <tr>
-        <th scope="col"><a href="QuinesSomos.jsp><img src="imagenes/quienes  somos.JPG" width="196" height="54" /></a></th>
+        <th scope="col"><a href="QuienesSomos.jsp>Quienes somos <width="196" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="ubicacion.jsp"><img src="imagenes/ubicacion.JPG" width="198" height="53" /></a></th>
+        <th scope="row"><a href="ubicacion.jsp">Ubicacion <width="198" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="servicios.jsp"><img src="imagenes/servicios.JPG" width="194" height="54" /></a></th>
+        <th scope="row"><a href="servicios.jsp">Servicios <width="194" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="DudasyComentarios.jsp"><img src="imagenes/dudas y comentarios.JPG" width="199" height="48" /></a></th>
+        <th scope="row"><a href="DudasyComentarios.jsp">Dudas y comentarios <width="199" height="48" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="AccesoSistema.jsp"><img src="imagenes/acceso  al sistema.JPG" width="215" height="53" /></a></th>
+        <th scope="row"><a href="AccesoSistema.jsp">Acceso al sistema <width="215" height="53" /></a></th>
       </tr>
     </table></th>
 	<BR>
@@ -67,15 +67,7 @@
 <p align="center" class="Estilo1">
   <textarea name="Comentario" rows="5" id="Comentario">
 
-
-
-
-
-
 </textarea>
-
-
-
 
   </label>
   </p>
@@ -86,6 +78,6 @@
 </p></td>
   </tr>
 </table>
-<p align="left"><span class="Estilo4"><a href="index.html"><img src="imagenes/inicio.gif" width="136" height="102" /></a></span></p>
+<p align="left"><span class="Estilo4"><a href="index.jsp">Ir al inicio <width="136" height="102" /></a></span></p>
 </body>
 </html>

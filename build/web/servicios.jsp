@@ -44,24 +44,24 @@ a:active {
 <body>
 <table width="100%" height="100%" border="0" >
   <tr>
-    <th height="171" colspan="2" scope="col"><img src="logo.JPG" width="936" height="243" /></th>
+    <th height="171" colspan="2" scope="col"><img src="Imagenes/hospital.jpg" width="936" height="243" /></th>
   </tr>
   <tr>
     <th width="22%" height="311" scope="row"><table width="100%" border="0">
       <tr>
-        <th scope="col"><a href="QuinesSomos.jsp"><img src="quienes%20%20somos.JPG" width="196" height="54" /></a></th>
+        <th scope="col"><a href="QuienesSomos.jsp">Quienes somos <width="196" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="ubicacion.jsp"><img src="ubicacion.JPG" width="198" height="53" /></a></th>
+        <th scope="row"><a href="ubicacion.jsp">Ubicación <width="198" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="servicios.jsp"><img src="servicios.JPG" width="194" height="54" /></a></th>
+        <th scope="row"><a href="servicios.jsp">Servicios <width="194" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="DudasyComentarios"><img src="dudas%20y%20comentarios.JPG" width="241" height="53" /></a></th>
+        <th scope="row"><a href="DudasyComentarios.jsp">Dudas y Comentarios <width="241" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="AccesoSistema"><img src="acceso%20%20al%20sistema.JPG" width="215" height="53" /></a></th>
+        <th scope="row"><a href="AccesoSistema.jsp">Acceso al sistema <width="215" height="53" /></a></th>
       </tr>
     </table>    </th>
     <td width="78%"><p class="Estilo1"><strong>Servicios</strong></p>

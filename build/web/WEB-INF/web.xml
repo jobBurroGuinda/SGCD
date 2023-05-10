@@ -1,27 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
     <servlet>
-        <servlet-name>CerrarSecion</servlet-name>
-        <servlet-class>CerrarSecion</servlet-class>
+        <servlet-name>LoginS</servlet-name>
+        <servlet-class>Servlets.LoginS</servlet-class>
     </servlet>
     <servlet>
-        <servlet-name>CheckList</servlet-name>
-        <servlet-class>CheckList</servlet-class>
+        <servlet-name>SesionIniciada</servlet-name>
+        <servlet-class>Servlets.SesionIniciada</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>InicioSGCD</servlet-name>
+        <servlet-class>Servlets.InicioSGCD</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FormA</servlet-name>
+        <servlet-class>Servlets.FormA</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FormB</servlet-name>
+        <servlet-class>Servlets.FormB</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FormC</servlet-name>
+        <servlet-class>Servlets.FormC</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FormM</servlet-name>
+        <servlet-class>Servlets.FormM</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>NvoUsuarioD</servlet-name>
+        <servlet-class>Servlets.NvoUsuarioD</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>NvoDentista</servlet-name>
+        <servlet-class>Servlets.NvoDentista</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>BuscarD</servlet-name>
+        <servlet-class>Servlets.BuscarD</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>BajaD</servlet-name>
+        <servlet-class>Servlets.BajaD</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>CerrarSecion</servlet-name>
-        <url-pattern>/CerrarSecion</url-pattern>
+        <servlet-name>LoginS</servlet-name>
+        <url-pattern>/LoginS</url-pattern>
     </servlet-mapping>
     <servlet-mapping>
-        <servlet-name>CheckList</servlet-name>
-        <url-pattern>/CheckList</url-pattern>
+        <servlet-name>SesionIniciada</servlet-name>
+        <url-pattern>/SesionIniciada</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>InicioSGCD</servlet-name>
+        <url-pattern>/InicioSGCD</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FormA</servlet-name>
+        <url-pattern>/FormA</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FormB</servlet-name>
+        <url-pattern>/FormB</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FormC</servlet-name>
+        <url-pattern>/FormC</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FormM</servlet-name>
+        <url-pattern>/FormM</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>NvoUsuarioD</servlet-name>
+        <url-pattern>/NvoUsuarioD</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>NvoDentista</servlet-name>
+        <url-pattern>/NvoDentista</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>BuscarD</servlet-name>
+        <url-pattern>/BuscarD</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>BajaD</servlet-name>
+        <url-pattern>/BajaD</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
             30
         </session-timeout>
     </session-config>
-    <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
-    </welcome-file-list>
 </web-app>

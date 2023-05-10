@@ -45,24 +45,24 @@
 <body>
 <table width="100%" height="100%" border="0" >
   <tr>
-    <th height="171" colspan="2" scope="col"><img src="imagenes/logo.JPG" width="1000" height="243" /></th>
+    <th height="171" colspan="2" scope="col"><img src="Imagenes/hospital.jpg" width="1000" height="243" /></th>
   </tr>
   <tr>
     <th width="23%" scope="row"><table width="100%" border="0">
       <tr>
-        <th scope="col"><a href="QuinesSomos.jsp"><img src="imagenes/quienes  somos.JPG" width="203" height="54" /></a></th>
+        <th scope="col"><a href="QuienesSomos.jsp">Quienes somos <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="ubicacion.html"><img src="imagenes/ubicacion.JPG" width="208" height="53" /></a></th>
+        <th scope="row"><a href="ubicacion.jsp">Ubicación <width="208" height="53" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="servicios.jsp"><img src="imagenes/servicios.JPG" width="203" height="54" /></a></th>
+        <th scope="row"><a href="servicios.jsp">Servicios <width="203" height="54" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="DudasyComentarios.jsp><img src="imagenes/dudas y comentarios.JPG" width="212" height="50" /></a></th>
+        <th scope="row"><a href="DudasyComentarios.jsp>Dudas y comentarios <width="212" height="50" /></a></th>
       </tr>
       <tr>
-        <th scope="row"><a href="AccesoSistema.jsp><img src="imagenes/acceso  al sistema.JPG" width="215" height="53" /></a></th>
+        <th scope="row"><a href="AccesoSistema.jsp>Acceso al sistema <width="215" height="53" /></a></th>
       </tr>
     </table></th>
     <td width="77%"><p align="center">&nbsp;</p>
@@ -73,7 +73,7 @@
         <p class="Estilo6">Queremos que reflexione acerca del siguiente concepto :Acudiendo regularmente al hospital dental , se puede prevenir la aparicion de las enfermedades de la boca y es posible darles tratamiento cuando recien aparecen y nos han causado relativamente pocos daños </p>
         <p class="Estilo6">Asi los tratamientos que nesecitamos seran reguramente sencillos y economicos , comparando con l que sucederia si no vamos con frecuencia a un consultorio dental y dejamos que se produzcan en nuestra boca daños de mayor consideracion</p>
         <p class="Estilo6">No deje pasar el tiempo y visite el hosítal dental pues su salud bucal es lo mas importante para nosotros</p>
-        <p><a href="index.jsp"><img src="imagenes/inicio.gif" width="126" height="91" /></a></p>
+        <p><a href="index.jsp">Ir al inicio<width="126" height="91" /></a></p>
       </div>
       <p align="center">&nbsp;</p>
       <p align="center">&nbsp;</p>
